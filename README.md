@@ -1,9 +1,8 @@
 # Packet-Tracer
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Cisco Packet Tracer Lab project aimed to establish networking fundamentals. The primary focus was to learn logical and physical network topology design, bringing together networking concepts and configuring routers/switches/end devices.
 
 ### Skills Learned
 Designing logical and physical network diagrams
@@ -18,7 +17,7 @@ Designing logical and physical network diagrams
 - Cisco Packet Tracer.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Note to self: drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
